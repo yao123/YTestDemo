@@ -1,0 +1,22 @@
+{
+  "name": "YTestDemo",
+  "version": "0.1.0",
+  "summary": "ceshi",
+  "description": "TODO: ceshi hao.",
+  "homepage": "https://www.baidu.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yao_ios@163.com": "xuguangyao@pujitech.com"
+  },
+  "source": {
+    "git": "https://github.com/yao123/YTestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YTestDemo/Classes/**/*"
+}

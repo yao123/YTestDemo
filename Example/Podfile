@@ -6,6 +6,6 @@ target 'YTestDemo_Example' do
   target 'YTestDemo_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
+#    pod 'FBSnapshotTestCase'
   end
 end
